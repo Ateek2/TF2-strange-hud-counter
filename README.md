@@ -3,7 +3,7 @@ a simple hud strange counter for TF2
 
 # how to use it ?
 
-download the source and put the strangehud.smx to plugin and done you just need to use a strange weapons on TF2 
+download the source and put the strangehud.smx in plugin and done you just need to use a strange weapons on TF2 
 
 # for dev
 
